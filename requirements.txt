@@ -1,0 +1,12 @@
+1. install python and make sure it runs properly
+
+2. install selenium webdriver
+        write "pip install selenium"
+
+3. install webdriver manager
+        write "pip install webdriver_manager"
+
+4. read https://github.com/am-a-man/project-web_scraper/blob/main/webscraper_presentation.ipynb we will be following this notebook
+
+
+
